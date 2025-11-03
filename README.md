@@ -9,7 +9,7 @@
 <h1 align="center">👋 Hi, I'm Nabil Ghenissa</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&lines=Web+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
