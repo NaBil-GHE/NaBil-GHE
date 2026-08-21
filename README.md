@@ -1,16 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nabil%20Ghenissa&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Nabil Ghenissa profile header" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y0anA4ZnA3YWFmNnl5bDk0ZHVxNzZkZ2lsZ3h1MGkzZ2RnZjR3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" height="200" alt="coding gif" />
-</div>
+<h1 align="center">Computer Science Graduate and Software Developer</h1>
 
-<h1 align="center">👋 Hi, I'm Nabil Ghenissa</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&lines=Web+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
+<p align="center">Algeria · Full-stack development · Distributed systems and networking</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NaBil-GHE&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -19,21 +13,24 @@
 
 <br>
 
-### 💫 About Me
-🔭 I'm a passionate developer constantly learning and exploring new technologies  
-💻 I enjoy building web applications and solving challenging problems  
-🌍 Always eager to collaborate on exciting projects  
-⚡ Fun fact: I turn coffee into code ☕➡️💻
+### About Me
+
+I am a Computer Science graduate from Algeria, currently pursuing a Master's degree in Distributed Networks and Systems at USTO-MB. My work centers on building reliable software across mobile, web, and backend systems.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,php,c,cpp,git,github,vscode,postman,figma&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,typescript,postgresql,java,c,cpp,python,react,nextjs,html,css,git,github,prisma,postman&perline=9" alt="Flutter, Dart, Node.js, TypeScript, PostgreSQL, Java, C, C++, Python, React, Next.js, HTML, CSS, Git, GitHub, Prisma, and Postman" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-1f6feb?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-111827?style=flat-square" alt="JWT" />
+</p>
 
 ---
 
@@ -52,59 +49,30 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaBil-GHE&theme=radical" alt="Profile Summary" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaBil-GHE&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+---
+
+### Current Focus
+
+- Full-stack development
+- Flutter mobile development
+- Backend and REST API development
+- PostgreSQL and Prisma
+- Distributed systems and networking
+- Software architecture
 
 ---
 
-### 🏆 GitHub Trophies
+### Education
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaBil-GHE&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+**Master's Degree in Distributed Networks and Systems**  
+Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf (USTO-MB) · 2026 - Present
 
----
-
-### 💼 Featured Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaBil-GHE&repo=NaBil-GHE&theme=radical&hide_border=true)](https://github.com/NaBil-GHE/NaBil-GHE)
-
-</div>
+**Bachelor's Degree in Computer Science**  
+Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf (USTO-MB) · 2022 - 2026
 
 ---
 
-### ⚡ Quick Facts
-
-```javascript
-const nabil = {
-    location: "Algeria 🇩🇿",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "HTML", "CSS", "PHP", "C", "C++"],
-    technologies: {
-        frontEnd: ["React", "Next.js"],
-        backEnd: ["Node.js", "Express"],
-        databases: ["MongoDB"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() 🐛"
-};
-```
-
----
-
-### 🌱 Currently Learning & Working On
-- 🎯 Advanced JavaScript frameworks & patterns
-- 🔧 Backend development with Node.js and Express
-- 🚀 Building scalable full-stack applications
-- 📱 Mobile-responsive design & PWA development
-
----
-
-### 📫 Let's Connect!
+### Connect With Me
 
 <div align="center">
   <a href="mailto:ghenissanabi.l1@gmail.com">
@@ -126,10 +94,10 @@ const nabil = {
 
 ---
 
-### 💭 Random Dev Quote
+### GitHub Activity
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaBil-GHE&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution graph" />
 </div>
 
 ---
@@ -139,6 +107,5 @@ const nabil = {
 </div>
 
 <div align="center">
-  <h3>✨ Thanks for visiting! Let's build something amazing together 🚀</h3>
-  <p>⭐ Don't forget to star my repos if you find them interesting!</p>
+  <p>Thanks for visiting my profile.</p>
 </div>
