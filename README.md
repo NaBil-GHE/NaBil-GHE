@@ -1,111 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nabil%20Ghenissa&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Nabil Ghenissa profile header" />
-</div>
-
-<h1 align="center">Computer Science Graduate and Software Developer</h1>
-
-<p align="center">Algeria · Full-stack development · Distributed systems and networking</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaBil-GHE&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/NaBil-GHE?label=Followers&style=social" alt="followers" />
-</div>
-
-<br>
-
-### About Me
-
-I am a Computer Science graduate from Algeria, currently pursuing a Master's degree in Distributed Networks and Systems at USTO-MB. My work centers on building reliable software across mobile, web, and backend systems.
-
----
-
-### Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,typescript,postgresql,java,c,cpp,python,react,nextjs,html,css,git,github,prisma,postman&perline=9" alt="Flutter, Dart, Node.js, TypeScript, PostgreSQL, Java, C, C++, Python, React, Next.js, HTML, CSS, Git, GitHub, Prisma, and Postman" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,65:0f2942,100:0891b2&height=170&section=header&text=Nabil%20Ghenissa&fontSize=42&fontColor=f0f6fc&fontAlignY=42&desc=Software%20Developer%20%7C%20Distributed%20Networks%20%26%20Systems&descSize=16&descAlignY=68" alt="Nabil Ghenissa — Software Developer, Distributed Networks and Systems" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-1f6feb?style=flat-square" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-111827?style=flat-square" alt="JWT" />
+  <strong>Master's Student in Distributed Networks &amp; Systems at USTO-MB</strong><br />
+  Oran, Algeria &middot; Backend Engineering &middot; Distributed Systems &middot; Computer Networking
+</p>
+
+<p align="center">
+  <a href="mailto:ghenissanabi.l1@gmail.com">Email</a> &middot;
+  <a href="https://www.linkedin.com/in/nabil-ghenissa">LinkedIn</a> &middot;
+  <a href="https://github.com/NaBil-GHE">GitHub</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## About Me
+
+I am a Computer Science graduate from Algeria, currently pursuing a Master's degree in **Distributed Networks and Systems** at **USTO-MB**. I design and build reliable software across backend services, data pipelines, mobile applications, and networked systems, with a growing focus on backend architecture, distributed systems, and computer networking.
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile Development** | `Flutter` `Dart` |
+| **Backend Development** | `Node.js` `Express` `Flask` `REST API` `JWT` `Prisma` |
+| **Databases** | `PostgreSQL` `SQLite` |
+| **Web Development** | `React` `Next.js` `TypeScript` `HTML5` `CSS3` |
+| **Programming Languages** | `TypeScript` `JavaScript` `Python` `Java` `Dart` `C` `C++` |
+| **Networking & Systems** | `Linux` `TCP/IP` `MQTT` `Client-Server Architecture` `Git` `GitHub` `Postman` |
+
+---
+
+## Currently Exploring
+
+- **Distributed Systems** — service coordination, fault tolerance, and reliable inter-service communication.
+- **Computer Networking** — network protocols, socket-level communication, and networked system diagnostics.
+- **MQTT** — lightweight publish-subscribe messaging patterns and broker-based event communication.
+- **Backend Architecture** — API design, data modeling, caching strategies, and maintainable service structures.
+- **Linux** — system administration, shell workflows, and server environments for backend services.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaBil-GHE&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaBil-GHE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaBil-GHE&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaBil-GHE&theme=radical" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaBil-GHE&show_icons=true&count_private=true&bg_color=0d1117&border_color=1e293b&border_radius=8&title_color=38bdf8&icon_color=22d3ee&text_color=c9d1d9" alt="Nabil Ghenissa GitHub statistics" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaBil-GHE&layout=compact&bg_color=0d1117&border_color=1e293b&border_radius=8&title_color=38bdf8&text_color=c9d1d9" alt="Nabil Ghenissa most used languages" height="175" />
 </div>
 
 ---
 
-### Current Focus
-
-- Full-stack development
-- Flutter mobile development
-- Backend and REST API development
-- PostgreSQL and Prisma
-- Distributed systems and networking
-- Software architecture
-
----
-
-### Education
+## Education
 
 **Master's Degree in Distributed Networks and Systems**  
-Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf (USTO-MB) · 2026 - Present
+Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf (USTO-MB) &middot; 2026 &ndash; Present
 
 **Bachelor's Degree in Computer Science**  
-Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf (USTO-MB) · 2022 - 2026
+Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf (USTO-MB) &middot; 2022 &ndash; 2026
 
 ---
 
-### Connect With Me
+## Contact
 
 <div align="center">
   <a href="mailto:ghenissanabi.l1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-ghenissanabi.l1%40gmail.com-0f172a?style=flat-square&labelColor=0369a1" alt="Email Nabil Ghenissa" />
   </a>
   <a href="https://www.linkedin.com/in/nabil-ghenissa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/nabil.ghenissa1">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/nabil_ghenissa/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/LinkedIn-nabil--ghenissa-0f172a?style=flat-square&labelColor=0369a1" alt="Nabil Ghenissa on LinkedIn" />
   </a>
   <a href="https://github.com/NaBil-GHE">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-NaBil--GHE-0f172a?style=flat-square&labelColor=0369a1" alt="Nabil Ghenissa on GitHub" />
   </a>
-</div>
-
----
-
-### GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaBil-GHE&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
-</div>
-
-<div align="center">
-  <p>Thanks for visiting my profile.</p>
+  <a href="https://www.facebook.com/nabil.ghenissa1">
+    <img src="https://img.shields.io/badge/Facebook-nabil.ghenissa1-0f172a?style=flat-square&labelColor=0369a1" alt="Nabil Ghenissa on Facebook" />
+  </a>
+  <a href="https://www.instagram.com/nabil_ghenissa/">
+    <img src="https://img.shields.io/badge/Instagram-nabil__ghenissa-0f172a?style=flat-square&labelColor=0369a1" alt="Nabil Ghenissa on Instagram" />
+  </a>
 </div>
