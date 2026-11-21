@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,65:0f2942,100:0891b2&height=170&section=header&text=Nabil%20Ghenissa&fontSize=42&fontColor=f0f6fc&fontAlignY=42&desc=Software%20Developer%20%7C%20Distributed%20Networks%20%26%20Systems&descSize=16&descAlignY=68" alt="Nabil Ghenissa — Software Developer, Distributed Networks and Systems" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,65:0f2942,100:0891b2&height=170&section=header&text=Nabil%20Ghenissa&fontSize=42&fontColor=f0f6fc&fontAlignY=42&desc=Software%20Developer%20%7C%20Distributed%20Networks%20and%20Systems&descSize=16&descAlignY=68" alt="Nabil Ghenissa — Software Developer, Distributed Networks and Systems" width="100%" />
 </div>
 
 <p align="center">
